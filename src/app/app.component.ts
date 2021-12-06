@@ -13,7 +13,7 @@ import { FormlyFormOptions, FormlyFieldConfig } from '@ngx-formly/core';
         [form]="form"
       ></formly-form>
     </form>
-    <button (click)="updateModel()">update model<button></button></button>
+    <button (click)="updateModel()">update model</button>
   `,
 })
 export class AppComponent {
